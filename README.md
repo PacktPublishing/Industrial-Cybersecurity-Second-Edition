@@ -55,3 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Pascal Ackerman**
 is a seasoned industrial security professional with a degree in electrical engineering and over 20 years of experience in industrial network design and support, information and network security, risk assessments, pentesting, threat hunting, and forensics. After almost two decades of hands-on, in-the-field, and consulting experience, he joined ThreatGEN in 2019 and is currently employed as managing director of threat services and research. His passion lies in analyzing new and existing threats to ICS environments and he fights cyber adversaries both from his home base and while traveling the world with his family as a digital nomad.
 Pascal wrote the previous edition of this book and has been a reviewer and technical consultant of many security books.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800202092">https://packt.link/free-ebook/9781800202092 </a> </p>
